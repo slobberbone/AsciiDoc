@@ -51,7 +51,8 @@ Basic support for some handy shortcuts are now available:
 
  - **Bold** selection: Select some text and then press `ctrl+b`
  - _Italic_ize selection: Select some text and then press `ctrl+i`
- - Mark selection as Code literal: Select some text and then press `ctrl+k`
+ - Mark selection as Code literal: Select some text and then press `ctrl+k`, `ctrl+k`
+ - Mark selection as filename: Select some text and then press `ctrl+k`, `ctrl+f`
 
 **Note**: `ctrl+b` overrides the standard key binding of `Tools > Build System`. If this bothers you, you can edit the `.sublime-keymap` files (based on your OS) under `Packages\AsciiDoc` folder.
 
