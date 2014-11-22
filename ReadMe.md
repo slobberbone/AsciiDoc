@@ -21,7 +21,7 @@ To install the package, follow these steps:
  - Extract the files to *AsciiDoc* folder (create this folder if not present already) under:
 	- Windows: `%APPDATA%\Sublime Text 2\Packages\`    
 	- OS X: `~/Library/Application Support/Sublime Text 2/Packages`
-	- Linux: `~/.config/sublime-text-2`
+	- Linux: `~/.config/sublime-text-2/Packages`
 	- Portable Installation: `Sublime Text 2/Data`   
  - Close all instances of Sublime Text 2 editor and relaunch the editor.  
 
