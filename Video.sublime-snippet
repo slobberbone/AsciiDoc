@@ -1,0 +1,5 @@
+<snippet>
+   <description>Video</description>
+   <content><![CDATA[video::${0:${TM_SELECTED_TEXT}}.mp4[width=640]]]></content>
+   <scope>text.html.asciidoc</scope>
+</snippet>
